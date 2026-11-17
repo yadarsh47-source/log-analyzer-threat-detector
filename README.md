@@ -66,9 +66,7 @@ log-analyzer-threat-detector/
 
 Clone the repository:
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
+git clone https://github.com/yadarsh47-source/log-analyzer-threat-detector.git
 
 Navigate to the project directory:
 
@@ -109,6 +107,7 @@ The test suite covers:
 Using the supplied synthetic authentication log:
 
 | Metric | Result |
+|---|---:|
 | Total successful logins | 5 |
 | Total failed logins | 9 |
 | Suspicious IP addresses identified | 3 |
